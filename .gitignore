@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### 前端页面以来文件 ###
+/node_modules/
